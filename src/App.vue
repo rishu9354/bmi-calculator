@@ -1,6 +1,5 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <HelloWorld msg="BMI Calculator"/>
 </template>
 
 <script>
@@ -16,11 +15,14 @@ export default {
 
 <style>
 #app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
+background: #FFE897;
+
+background: linear-gradient(180deg, #FFE897 0%, #FFB49C 100%);
+
+background: -moz-linear-gradient(180deg,  #FFE897 0%, #FFB49C 100%);
+
+background: -webkit-linear-gradient(180deg,  #FFE897 0%, #FFB49C 100%);
+height: 100%;
+width: 100%;
 }
 </style>
