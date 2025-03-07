@@ -1,6 +1,8 @@
 # bmi2-webapp
 ## Live Preview
+```
 https://astonishing-gumdrop-af8208.netlify.app/
+```
 
 ## Project setup
 ```
